@@ -20,7 +20,7 @@ public class ExamenB {
         
         numero = 10;
         numero2 = 27;
-        System.out.println("kakja"+numero+numero2);
+        System.out.println("kakjsada"+numero+numero2);
     }
     
 }
